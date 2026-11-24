@@ -1,7 +1,7 @@
-local PIN = "2e3e5215d6ecc17a4629b3a2239fc4340a300d5b"
+local PIN = "d9c8fdceddd33ab9f18c1bd0d7dbacc978529f3c"
 local BASE = "https://raw.githubusercontent.com/0rnx4/mvs2/" .. PIN .. "/modules/"
-local MODS = { "01_core", "02_classify", "03_predict", "04_target", "05_silent", "06_esp", "07_perf", "08_gui", "09_build", "10_main" }
-local EXPECTED = 121186
+local MODS = { "core", "classify", "predict", "target", "silent", "esp", "perf", "gui", "build", "main" }
+local EXPECTED = 120489
 local parts = {}
 local total = 0
 for i, m in ipairs(MODS) do
