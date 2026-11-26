@@ -9,4 +9,4 @@ loadstring(game:HttpGet("https://pastefy.app/SP1rW6hR/raw"))()
 
 サイレントエイム ESP その他機能
 
-新しいバージョンになると機能が増えるとともにバグも増えるので不安定になる可能性があります
+更新終了
